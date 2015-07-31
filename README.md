@@ -1,0 +1,10 @@
+Exceptional Realty Group Website
+---
+
+# Description
+
+This is an example sit for the Intro to FEWD course at The Flatiron School.
+
+# Contact 
+
+email: emkilbane@gmail.com
